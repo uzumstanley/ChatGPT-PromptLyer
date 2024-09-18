@@ -33,3 +33,16 @@ PROMPTLAYER_API_KEY=your_promptlayer_api_key
 Run the Application:
 
 poetry run python app.py
+
+# Features
+
+System Prompt: Define the AI's role and behavior.
+Chat Interface: Simple CLI for interacting with MyChatGPT.
+Contextual Information: Inject date and location into the prompt.
+Calculator Tool: Use OpenAI's function calling to perform calculations.
+Logging and Debugging: Track and iterate on prompts using PromptLayer.
+Screenshots
+
+
+
+
