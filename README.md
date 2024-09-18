@@ -47,6 +47,8 @@ Screenshots
 
 Example of the System prompt used in MyChatGPT.
 
+![function_call_screenshot](https://github.com/user-attachments/assets/05938b04-6cba-43eb-8375-8a23168ac9ad)
+
 
 
 
