@@ -45,6 +45,8 @@ Logging and Debugging: Track and iterate on prompts using PromptLayer.
 Screenshots
 ![prompt_screenshot](https://github.com/user-attachments/assets/96617080-f401-42f6-89c7-26f33c43f378)
 
+Example of the System prompt used in MyChatGPT.
+
 
 
 
