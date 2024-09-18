@@ -49,6 +49,12 @@ Example of the System prompt used in MyChatGPT.
 
 ![function_call_screenshot](https://github.com/user-attachments/assets/05938b04-6cba-43eb-8375-8a23168ac9ad)
 
+Example of a function call to the calculator tool.
 
+# Conclusion
+
+This project serves as a foundation for building and customizing your own AI assistant. For a detailed tutorial, please refer to the accompanying blog post.
+
+Happy prompting! 🍰
 
 
