@@ -41,7 +41,9 @@ Chat Interface: Simple CLI for interacting with MyChatGPT.
 Contextual Information: Inject date and location into the prompt.
 Calculator Tool: Use OpenAI's function calling to perform calculations.
 Logging and Debugging: Track and iterate on prompts using PromptLayer.
+
 Screenshots
+![prompt_screenshot](https://github.com/user-attachments/assets/96617080-f401-42f6-89c7-26f33c43f378)
 
 
 
